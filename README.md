@@ -6,6 +6,10 @@ Cinema Booking System is a C# Windows Forms application developed as part of a D
 
 The project applies multiple data structures to efficiently manage movies, seat reservations, and waiting lists while providing a smooth user experience.
 
+<img width="1366" height="687" alt="image" src="https://github.com/user-attachments/assets/4b0c170a-9505-4a60-a538-95f7528e4ac6" />
+
+<img width="1398" height="673" alt="image" src="https://github.com/user-attachments/assets/fb21376d-843c-4504-b063-4e848dcbdae4" />
+
 ## Features
 
 - Browse available movies
